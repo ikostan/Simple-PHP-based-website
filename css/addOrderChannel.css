@@ -1,0 +1,93 @@
+/*Table style*/
+td{
+	
+	border-color: #b6b1b6;
+	border-style: solid;
+	border-width: 2px 1px 1px 2px;
+}
+
+table{
+	
+	border-width: 1px 2px 2px 1px;
+	border-spacing: 3px 3px;
+	border-color: #b6b1b6;
+	border-style: solid;
+	border-collapse: separate;
+	border-radius: 0px;
+	width: 90%;
+	text-align: center;
+}
+
+
+/*DIV tTable*/
+#tTable{
+	
+	position: relative;
+	display: block;
+	padding-left: 10%;
+	padding-bottom: 3%;
+
+}
+
+thead{
+	
+	font-weight: bold;
+	text-align: center;
+}
+
+
+#title{
+	
+	width: 35%;
+}
+
+
+#title{
+	
+	width: 50%;
+}
+
+
+#price{
+	
+	width: 25%;
+}
+
+
+#name{
+	
+	text-align: center;
+	font-weight: bold;
+	font-size: 130%;
+}
+
+p{
+	
+	text-align: center;
+}
+
+img{
+	
+	height: 20%;	
+}
+
+.yellow{
+	
+	background-color: #eef329;
+}
+
+.right{
+	
+	text-align: right;
+	font-weight: bold;
+}
+
+.bold{
+	
+	font-weight: bold;
+}
+
+#underline{
+	
+	text-decoration: underline;
+}

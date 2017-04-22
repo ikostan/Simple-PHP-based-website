@@ -1,0 +1,84 @@
+/* Background color */
+body{
+	background-color:#767075;
+	margin-top: 8%;
+}
+
+/* DIV style*/
+#form{
+	
+	margin: auto;
+	width: 50%;
+	
+	background-color:#f2f2f2;
+	border-style: solid;
+	border-color: #000000;
+	border-width: 0.2px 0.2px 0.2px 0.2px;
+	border-radius: 10px;
+	padding-left: 0%;
+	padding-right: 0%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	
+}
+
+/*Main header paragraph style*/
+#mainHeader{
+	
+	display: table;
+    margin: 0 auto;
+	font-size: 2.0em;
+	font-weight: bold; 
+	padding-bottom: 2%;
+	padding-left: 0%; 
+	
+}
+
+/*Sub header paragraph style*/
+#subHeader{
+	
+	display: table;
+    margin: 0 auto;
+	font-size: 1.5em;
+	font-weight: bold;
+	padding-bottom: 2%; 
+	padding-left: 0%; 
+	
+}
+
+/*user password field style*/
+#userPassword{
+	
+	padding-left: 15%;
+}
+
+/*common style for all paragraph*/
+p, #userPassword{
+	
+	font-weight: bold; 
+}
+
+/*paragraph style*/
+p{
+	
+	padding-left: 9%;
+}
+
+/*Reset and Login buttons style*/
+#buttons{
+	
+	padding-left: 41.2%;
+}
+
+/*New Member button style*/
+#newMember{
+	
+	color: blue;
+	padding-left: 14.5%;
+}
+
+/*Error messages styling*/
+#error{
+	
+	color: #ff0000;
+}

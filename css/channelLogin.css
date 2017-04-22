@@ -1,0 +1,31 @@
+/*user password field style*/
+#userPassword{
+	
+	padding-left: 15%;
+}
+
+/*common style for all paragraph*/
+#userName, #userPassword{
+	
+	font-weight: bold;
+	padding-left: 9%;
+}
+
+#userPassword{
+	
+	padding-left: 15%;
+}
+
+/*Reset and Login buttons style*/
+#buttons{
+	
+	padding-left: 41.2%;
+}
+
+/*New Member button style*/
+#newMember{
+	
+	color: blue;
+	padding-left: 15.5%;
+}
+

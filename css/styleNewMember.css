@@ -1,0 +1,97 @@
+/* Background color */
+body{
+	background-color:#767075;
+	margin-top: 8%;
+}
+
+/* DIV style*/
+#form{
+	margin: auto;
+	width: 50%;
+	
+	background-color:#f2f2f2;
+	border-style: solid;
+	border-color: #000000;
+	border-width: 0.2px 0.2px 0.2px 0.2px;
+	border-radius: 10px;
+	padding-left: 0%;
+	padding-right: 0%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+/*Main header paragraph style*/
+#mainHeader{
+	display: table;
+    margin: 0 auto;
+	font-size: 2.0em;
+	font-weight: bold; 
+	padding-bottom: 2%; 
+}
+
+/*Sub header paragraph style*/
+#subHeader{
+	
+	display: table;
+    margin: 0 auto;
+	font-size: 1.5em;
+	font-weight: bold;
+	padding-bottom: 2%; 
+	
+}
+
+/*Table style*/
+td{
+	width: 50%;
+	border-color:#b6b1b6;
+	border-style: solid;
+	border-width: 2px 1px 1px 2px;
+}
+
+table{
+	border-width: 1px 2px 2px 1px;
+	border-spacing: 3px 3px;
+	border-color:#b6b1b6;
+	border-style: solid;
+	border-collapse: separate;
+	border-radius: 0px;
+	text-align: right;
+}
+
+
+/*DIV tTable*/
+#tTable{
+	margin: auto;
+	width: 90%;
+	padding-bottom: 3%;
+}
+
+/*List style*/
+ul{
+	list-style-type: disc;
+	padding-left: 30%;
+	padding-right: 2%;
+}
+
+li{
+float: right;
+}
+
+/*Strong/bold text*/
+.boldTxt{
+	font-weight: bold;
+}
+
+/*Paragraph style*/
+.tRight {
+	text-align: right;
+}
+
+.tLeft{
+	text-align: left;
+}
+
+/*Back to login link style*/
+#backLink{
+	text-align: center;
+}

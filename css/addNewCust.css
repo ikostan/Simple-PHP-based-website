@@ -1,0 +1,63 @@
+/*Table style*/
+td{
+	/*width: 50%;*/
+	border-color:#b6b1b6;
+	border-style: solid;
+	border-width: 2px 1px 1px 2px;
+}
+
+table{
+	border-width: 1px 2px 2px 1px;
+	border-spacing: 3px 3px;
+	border-color:#b6b1b6;
+	border-style: solid;
+	border-collapse: separate;
+	border-radius: 0px;
+	text-align: right;
+}
+
+
+/*DIV tTable*/
+#tTable{
+	margin: auto;
+	width: 90%;
+	padding-bottom: 3%;
+}
+
+/*List style*/
+ul{
+	list-style-type: disc;
+	padding-left: 30%;
+	padding-right: 2%;
+}
+
+li{
+float: right;
+}
+
+/*Strong/bold text*/
+.boldTxt{
+	font-weight: bold;
+}
+
+/*Paragraph style*/
+.tRight {
+	
+	text-align: right;
+}
+
+.tError {
+	width: 25%;
+	text-align: left;
+}
+
+.tLeft{
+	width: 30%;
+	text-align: left;
+}
+
+/*Back to login link style*/
+#backLink{
+	
+	text-align: center;
+}
